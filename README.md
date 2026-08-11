@@ -8,9 +8,6 @@ The analysis focuses on understanding **delivery performance, order patterns, ma
 
 The project includes data cleaning, feature engineering, statistical analysis, correlation analysis, outlier detection, and interactive data visualization.
 
-<img width="1023" height="532" alt="image" src="https://github.com/user-attachments/assets/b1bc17ab-0898-4bd1-a2c3-9e93aad55002" />
-
-
 ---
 
 ## 🎯 Business Objective
