@@ -1,6 +1,6 @@
-# 🚚 Porter Delivery Analytics | Python
+# Porter Delivery Analytics | Python
 
-## 📊 Project Overview
+## Project Overview
 
 This project performs an end-to-end **Exploratory Data Analysis (EDA)** of Porter food-delivery order data using Python.
 
@@ -10,7 +10,7 @@ The project includes data cleaning, feature engineering, statistical analysis, c
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 The primary objective of this project is to analyze delivery operations and answer questions such as:
 
@@ -31,7 +31,7 @@ The primary objective of this project is to analyze delivery operations and answ
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 The dataset contains **197,428 orders** and **14 original columns**.
 
@@ -56,7 +56,7 @@ The dataset contains **197,428 orders** and **14 original columns**.
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+# Data Cleaning & Preparation
 
 ## 1. Date Conversion
 
@@ -138,7 +138,7 @@ After imputation, no missing values remained.
 
 ---
 
-# ⚙️ Feature Engineering
+# Feature Engineering
 
 Several new analytical features were created.
 
